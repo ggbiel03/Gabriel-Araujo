@@ -1,11 +1,13 @@
+<div align="center">
+
 # 👨‍💻 Gabriel Araujo
 
 **` Estudante de Análise e Desenvolvimento de Sistemas`**
-<p align="center"> Atualmente me dedicando à formação em Análise e Desenvolvimento de Sistemas, sou apaixonado por tecnologia e por resolver problemas de forma criativa e eficiente. Tenho interesse especial no desenvolvimento web, com foco nas linguagens HTML, CSS, JavaScript e Python — que são as que mais utilizo nos meus projetos. <br><br> Estou sempre em busca de novos desafios que me permitam aplicar e aprimorar meus conhecimentos técnicos, além de desenvolver habilidades em trabalho em equipe, liderança e metodologias ágeis.</p>&nbsp;
- 
- &nbsp;
- &nbsp;
 
+<p> Atualmente me dedicando à formação em Análise e Desenvolvimento de Sistemas, sou apaixonado por tecnologia e por resolver problemas de forma criativa e eficiente. Tenho interesse especial no desenvolvimento web, com foco nas linguagens HTML, CSS, JavaScript e Python — que são as que mais utilizo nos meus projetos. <br><br> Estou sempre em busca de novos desafios que me permitam aplicar e aprimorar meus conhecimentos técnicos, além de desenvolver habilidades em trabalho em equipe, liderança e metodologias ágeis.</p>
+
+&nbsp;
+&nbsp;
 
 ## My Skills
 
@@ -16,7 +18,7 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="center" alt="Computador iuriCode">
 
 #### Secondary Stack:
 
@@ -36,14 +38,12 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![SQLServer](https://img.shields.io/badge/SQLServer-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 
-
 #### Workstation Tools:
 
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
-![Trello]((https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white))&nbsp;
-
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)&nbsp;
 
 &nbsp;
 &nbsp;
@@ -57,6 +57,6 @@
 <a href="https://www.linkedin.com/in/gabriel-araujo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 </div>&nbsp;&nbsp;
 
-  
-  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+
+</div>
